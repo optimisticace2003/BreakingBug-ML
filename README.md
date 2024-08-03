@@ -3,9 +3,11 @@
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
 
 ## Table of Content
+- [Google-Sheet-link ](Google-Sheet-Link)
 - [Team-Information](Team-Information)
 - [Model-Performance](#Model-Performance)
-- [Google-Sheet-link ](#Model-Performance)
+- [Output](Output)
+
 
 
 ### Google-Sheet-Link
