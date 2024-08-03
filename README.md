@@ -14,7 +14,7 @@
 
 ### Team-Information
 Team Name : Pyro Tech
-Team leader :Hari Raja Prabhu 
+Team leader : Hari Raja Prabhu 
 Member 1    : Manik Rakshan I
 Member 2    : Bharathwaj.K.S
 
