@@ -9,7 +9,7 @@
 
 
 ### Google-Sheet-Link
-[this form]([https://forms.gle/your-google-form-link](https://docs.google.com/spreadsheets/d/1UPJ-C2LCW84WUlgAA2Ik_V5sFLy0aOd5_-nRK_5vOA8/edit?usp=sharing))
+[Google Sheet]([https://forms.gle/your-google-form-link](https://docs.google.com/spreadsheets/d/1UPJ-C2LCW84WUlgAA2Ik_V5sFLy0aOd5_-nRK_5vOA8/edit?usp=sharing))
 
 
 ### Team-Information
