@@ -39,6 +39,18 @@ Best Model Test Accuracy: 93.3%
 ### Output
 
 ![Screenshot1](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/1.png)
-
-
+![Screenshot2](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/2.png)
+![Screenshot3](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/3.png)
+![Screenshot4](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/4.png)
+![Screenshot5](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/5.png)
+![Screenshot6](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/6.png)
+![Screenshot7](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/7.png)
+![Screenshot8](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/8.png)
+![Screenshot9](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/8.png)
+![Screenshot10](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/10.png)
+![Screenshot11](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/11.png)
+![Screenshot12](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/12.png)
+![Screenshot13](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/13.png)
+![Screenshot14](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/14.png)
+![Screenshot15](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/15.png)
 
