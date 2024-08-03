@@ -3,10 +3,11 @@
 <img src="https://images.prismic.io/ieeemuj/Zqu58B5LeNNTxuyE_BreakingBugBanner.png?auto=format,compress" alt="Breaking Bug Poster">
 
 ## Table of Content
-- [Google-Sheet-link ](Google-Sheet-Link)
-- [Team-Information](Team-Information)
+- [Google-Sheet-link ](#Google-Sheet-Link)
+- [Team-Information](#Team-Information)
+- [Dataset-Column](#Dataset-Column)
 - [Model-Performance](#Model-Performance)
-- [Output](Output)
+- [Output](#Output)
 
 
 
@@ -18,6 +19,26 @@ https://docs.google.com/spreadsheets/d/1UPJ-C2LCW84WUlgAA2Ik_V5sFLy0aOd5_-nRK_5v
 - **Team Leader**: Hari Raja Prabhu
 - **Member 1**: Manik Rakshan I
 - **Member 2**: Bharathwaj.K.S
+
+### Dataset-Column
+
+- **id**: Unique ID
+- **age**: Age in years
+- **sex**: Gender
+- **dataset**: Location of data collection
+- **cp**: Chest pain type
+- **trestbps**: Resting blood pressure
+- **chol**: Cholesterol measure
+- **fbs**: Fasting blood sugar
+- **restecg**: ECG observation at resting condition
+- **thalch**: Maximum heart rate achieved
+- **exang**: Exercise induced angina
+- **oldpeak**: ST depression induced by exercise relative to rest
+- **slope**: The slope of the peak exercise ST segment
+- **ca**: Number of major vessels (0-3) colored by fluoroscopy
+- **thal**: Thalassemia
+- **num**: Target [0 = no heart disease; 1, 2, 3, 4 = stages of heart disease]
+
 
 
 ### Model-Performance
