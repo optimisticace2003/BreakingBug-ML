@@ -38,7 +38,7 @@ Best Model Test Accuracy: 93.3%
 
 ### Output
 
-![Screenshot1]([https://github.com/smartinternz02/SBSPS-Challenge-9465-Rush-Estimator-for-Corporate-Cafeteria/blob/main/Report%20Screenshots/Home.png](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/1.png))
+![Screenshot1](https://github.com/optimisticace2003/BreakingBug-ML/blob/main/output/1.png)
 
 
 
